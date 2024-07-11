@@ -6,7 +6,6 @@ tags: []
 title: Goals
 ---
 
-# Goals
 ### Languages
 - Haskell
 - Elixir
