@@ -32,7 +32,7 @@ I bought a "ThinkPad X1 Yoga Gen 8 Intel" and threw Arch Linux on it.
 
 I was really impressed by the bare bones and customizable aspects of Arch. I loved the idea of having a computer that was tailored exactly to what you need.
 
-I then heard about NixOS, with its promises of perfect reproducibility. The purely functional nature of it. I knew something was there, but didn't fully understand it. And still don't. I tried to adopt it, but gave up. A few days ago however, I wiped my desktop computer and took the plunge. Many suggest using a virtual machine before committing. But I'm not that type of guy.
+I then heard about [[NixOs]], with its promises of perfect reproducibility. The purely functional nature of it. I knew something was there, but didn't fully understand it. And still don't. I tried to adopt it, but gave up. A few days ago however, I wiped my desktop computer and took the plunge. Many suggest using a virtual machine before committing. But I'm not that type of guy.
 
 So, one of my top priorities right now is to really understand Nix.
 
